@@ -1,0 +1,7 @@
+# Ignore the output folders for both the truffle compile, and the solidity compile
+
+# Solidity compiler output 
+bin/
+
+# Truffle compiler output 
+build/
